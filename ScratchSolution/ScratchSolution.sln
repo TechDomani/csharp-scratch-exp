@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchConsole", "ScratchConsole\ScratchConsole.csproj", "{03B1E800-027E-49E4-A05D-7316E80D9FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78828D9A-9FB4-4806-982E-20205B2A599C}
+	EndGlobalSection
+EndGlobal
