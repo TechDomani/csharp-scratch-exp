@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchConsole", "ScratchConsole\ScratchConsole.csproj", "{03B1E800-027E-49E4-A05D-7316E80D9FC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch.Runner", "Scratch.Runner\Scratch.Runner.csproj", "{03B1E800-027E-49E4-A05D-7316E80D9FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch.Classes", "Scratch.Classes\Scratch.Classes.csproj", "{D547E1EB-ACA5-4D09-B3B2-25B3BC70130B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch.Tests", "Scratch.Tests\Scratch.Tests.csproj", "{951499DE-F8E6-42CD-A035-66195B6B3441}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B1E800-027E-49E4-A05D-7316E80D9FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D547E1EB-ACA5-4D09-B3B2-25B3BC70130B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D547E1EB-ACA5-4D09-B3B2-25B3BC70130B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D547E1EB-ACA5-4D09-B3B2-25B3BC70130B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D547E1EB-ACA5-4D09-B3B2-25B3BC70130B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951499DE-F8E6-42CD-A035-66195B6B3441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951499DE-F8E6-42CD-A035-66195B6B3441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951499DE-F8E6-42CD-A035-66195B6B3441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951499DE-F8E6-42CD-A035-66195B6B3441}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
